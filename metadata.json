@@ -1,0 +1,8 @@
+{
+  "name": "Remix kmi1_input_output_barang",
+  "description": "Aplikasi form pengambilan dan pemakaian barang PT KMI Wire and Cable Tbk dengan sinkronisasi Google Sheets, backend API, dan manajemen master data barang \u0026 U/M.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
